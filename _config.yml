@@ -72,5 +72,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - CNAME
+  - README
 
 
