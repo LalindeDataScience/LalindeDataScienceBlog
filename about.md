@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
 
-Originally Studied Biomedical Engineering and fell in love with data science.
+### About Me
+
+Biomedical Engineer who found a passion for data science.
+
+### More Info
+I originally studied for a Biomedical engineering at FIU. I started to gain in interest in DataScience and decided to take a course on it. I have been constantly learning new things and haven't stopped since. 
 
 ### Contact me
 
