@@ -12,4 +12,4 @@ Originally Studied Biomedical Engineering and fell in love with data science.
 
 ### Contact me
 
-[email@domain.com](mailto:lalindedatascience@gmail.com)
+[lalindedatascience@gmail.com](mailto:lalindedatascience@gmail.com)
