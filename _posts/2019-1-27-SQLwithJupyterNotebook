@@ -1,0 +1,2 @@
+The objective of this blog post is to show you How to tie in an sql database with jupyter notebook allowing one to work on projects more efficiently. 
+I personally have an interest in the medical field so I will show you how I created a Database for CT scans and access them through the jupyter notebook.
